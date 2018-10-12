@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+src/fitter/__init__.py
+src/fitter/fitter.py
+src/fitter.egg-info/PKG-INFO
+src/fitter.egg-info/SOURCES.txt
+src/fitter.egg-info/dependency_links.txt
+src/fitter.egg-info/not-zip-safe
+src/fitter.egg-info/requires.txt
+src/fitter.egg-info/top_level.txt
+test/test_fitter.py
